@@ -1,8 +1,8 @@
-# java-uml
+# java-uml-contract
 
 ## Description
 
-java-uml
+java-uml-contract
 
 ## Content with Citations
 
